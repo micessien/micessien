@@ -59,4 +59,4 @@
 <a href="mailto:hello@micaeldie.com"><img alt="Email" src="https://img.shields.io/badge/Email-hello@micaeldie.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
-⭐️ From [Micael Die](https://github.com/micessien)
+⭐️ From [AVS1508](https://github.com/AVS1508)
