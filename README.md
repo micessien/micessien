@@ -102,7 +102,7 @@ const micael = {
 
 [![Website](https://img.shields.io/badge/micaeldie.com-181717?style=for-the-badge&logo=google-chrome&logoColor=58a6ff)](https://micaeldie.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/micael-die-887116101/)
-[![Email](https://img.shields.io/badge/hello@micaeldie.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@micaeldie.com)
+[![Email](https://img.shields.io/badge/micaeldie@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:micaeldie@gmail.com)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/micael.die/)
 
 </div>
@@ -111,4 +111,4 @@ const micael = {
 
 <br/>
 
-<p align="center"><sub>— Senior Software Developer · Tech Lead · West Africa —</sub></p>
+<p align="center"><sub>— Senior Software Developer · Tech Lead · West Africa & Beyond —</sub></p>
