@@ -90,12 +90,8 @@ const micael = {
 ## `$ git log --stat`
 
 <div align="center">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=micessien&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=micessien&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=micessien&theme=github-dark-blue&hide_border=true" />
+  <img height="175em" src="https://github-readme-stats-fast.vercel.app/api?username=micessien&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="175em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=micessien&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
 </div>
 
 ---
